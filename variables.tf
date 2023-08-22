@@ -20,7 +20,7 @@ variable "public_subnet_cidr" {
 }
 
 variable "public_subnet_names" {
-  default = ["timing-public-change-1a", "timing-public-change-1b"]
+  default = ["timing-public-1a", "timing-public-1b"]
 }
 
 variable "private_subnet_cidr" {
