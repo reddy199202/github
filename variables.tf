@@ -28,7 +28,7 @@ variable "private_subnet_cidr" {
 }
 
 variable "private_subnet_names" {
-  default = ["timing-private-1a", "timing-private-1b"]
+  default = ["timing-private-change-1a", "timing-private-1b"]
 }
 
 variable "database_subnet_cidr" {
